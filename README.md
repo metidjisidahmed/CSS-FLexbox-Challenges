@@ -22,5 +22,5 @@ Build a similar navbar to the image below with flexbox. Add it to your component
 
 ### Challenge 4 ( for me , I guess ) :
 
-![](https://github.com/metidjisidahmed/CSS-FLexbox-Challenges/blob/main/image.png?raw=true)
+![](https://github.com/metidjisidahmed/CSS-FLexbox-Challenges/blob/main/image.png)
 
