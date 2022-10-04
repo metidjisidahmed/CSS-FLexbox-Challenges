@@ -19,3 +19,8 @@ Test out some different ways to align the boxes on the horizontal axis using `ju
 Build a similar navbar to the image below with flexbox. Add it to your component library you started yesterday.
 
 ![](https://dl.dropboxusercontent.com/s/qxtopzvw9s440ua/navbar.png?dl=0)
+
+### Challenge 4 ( for me , I guess ) :
+
+![](https://github.com/metidjisidahmed/CSS-FLexbox-Challenges/blob/main/image.png?raw=true)
+
