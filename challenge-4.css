@@ -1,0 +1,33 @@
+.image_shoes{
+    height: 200px;
+    width: 300px;
+}
+
+.shoes{
+    padding : 2rem;
+    border : 2px solid gray;
+    border-radius: 20px;
+    line-break: anywhere;
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+
+.shoesContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.price{
+    color : green;
+    font-weight: bold;
+    margin-top: auto;
+}
+
+.shoes-description{
+    text-align: center;
+}
