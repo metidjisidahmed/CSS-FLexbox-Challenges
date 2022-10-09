@@ -14,12 +14,14 @@
     flex-direction: column;
     justify-content: space-evenly;
 
+    width: min-content;
 }
 
 
 .shoesContainer{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .price{
@@ -30,4 +32,16 @@
 
 .shoes-description{
     text-align: center;
+}
+
+
+
+
+@media (min-width: 500px) and (max-width: 700px){
+    .shoesFavouriteIcon{
+        position: relative;
+        bottom: 100%;
+        left: 50%;
+        font-size: 1.8rem;
+    }
 }
